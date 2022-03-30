@@ -1,1 +1,1 @@
-/home/andy/Desktop/test/rT1_post_indiTPM.nii.gz
+THIS WILL BE WRITTEN BY MAIN.M

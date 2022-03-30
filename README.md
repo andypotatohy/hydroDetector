@@ -7,9 +7,9 @@ You will need Matlab R2017b or newer, Python 2.7, Tensorflow 2.1.0, and Keras 2.
 
 ## Getting started
 
-After you download the zip file, unzip it, launch your Matlab, make sure you are under the root directory (i.e., you can see `lib/`, and the `main.m` file). Open the `main.m`, and enter the MRI to your subjects in the subjList variable at 5th line, then run the `main.m`.
+After you download the zip file, unzip it, launch your Matlab, make sure you are under the root directory (i.e., you can see `lib/`, and the `main.m` file). Open the `main.m`, and enter the MRI to your subjects in the `subjList` variable at the 5th line, then run the `main.m`.
 
-You will get the segmentation of the input head MRIs in the same folder of the MRIs.
+The program will print out the probability of hydrocephalus for each subject head MRI you entered. Also you will get the segmentation of the input head MRIs in the same folder of the MRIs.
 
 ## Acknowledgements
 
