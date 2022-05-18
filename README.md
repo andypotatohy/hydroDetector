@@ -15,9 +15,7 @@ The program will print out the probability of hydrocephalus for each subject hea
 
 If you use this code in your research, please cite:
 
-Huang, Y., Moreno, R., Malani, R., Meng, A., Swinburne, N., Holodny, A.I., Choi, Y., Parra, L.C.,
-Young, R.J., 2021, Deep Learning Achieves Neuroradiologist-Level Performance in Detecting Hydro-
-cephalus Requiring Treatment, doi.org/10.1101/2021.01.19.427328
+Huang, Y., Moreno, R., Malani, R., Meng, A., Swinburne, N., Holodny, A., Choi, Y., Rusinek, H., Golomb, J., George, A., Parra, L., Young, R., "Deep Learning Achieves Neuroradiologist-Level Performance in Detecting Hydrocephalus Requiring Treatment", Journal of Digital Imaging (2022). https://doi.org/10.1007/s10278-022-00654-3
 
 This work was supported in part through the NIH grants P30CA008748, R01NS095123, R01CA247910, R01MH111896, R21NS115018, R01CA247910, R21NS115018, R01DC018589, R01MH111439. Support was also provided by the Memorial Sloan Kettering Cancer Center Department of Radiology.
 
